@@ -5,6 +5,7 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+/*------first section start----*/
 .first-part{
     background-image: url(images/220628180819-01-bangladesh-flood-relief.jpg);
     background-repeat: repeat;
@@ -44,6 +45,59 @@ body{
     padding: 10px 15px;
     border-radius: 8%;
     position: absolute;
-    top: 570px;
-    left: 700px;
+    top: 590px;
+    left: 675px;
 }
+/*------first section done----*/
+
+/*------Second section done----*/
+.section-part{
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 46px;
+    font-weight: bolder;
+}
+p{
+    font-size: 20px;
+    color: rgb(57, 56, 56);
+    margin-top: 15px;
+    text-align: center;
+}
+.pound{
+    display: flex;
+    font-size: 30px;
+        
+
+}
+.div-pound{
+    border: 3px black;
+    width: 80px;
+    padding: 40px;
+    box-shadow: 5px 5px 10px rgb(208, 206, 206);
+    border-radius: 7%;
+    margin-left: 120px;
+
+}
+.div-pound2{
+    border: 3px solid rgb(216, 42, 42);
+    background-color: rgb(244, 187, 187);
+}
+
+.horizental{
+    margin-left: 190px;
+    margin-right:190px;
+}
+.anchor-tag2{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    background-color:rgb(251, 56, 34);
+    padding: 10px 15px;
+    border-radius: 8%;
+    margin-left: 690px;
+}
+/*------Second section done----*/
