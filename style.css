@@ -33,7 +33,6 @@ body{
     font-size: 20px;
     color: rgb(240, 248, 255);
     text-align: center;
-    background-color: rgb(255, 75, 75);
     padding: 10px;
 }
 .anchor-tag{
@@ -41,7 +40,7 @@ body{
     font-size: 20px;
     color: aliceblue;
     font-weight: bold;
-    background-color:rgb(251, 56, 34);
+    background-color: rgb(229, 88, 72);
     padding: 10px 15px;
     border-radius: 8%;
     position: absolute;
@@ -50,17 +49,17 @@ body{
 }
 /*------first section done----*/
 
-/*------Second section done----*/
+/*------Second section start----*/
 .section-part{
 
 }
-h2{
+.h-special{
     font-size: 40px;
     text-align: center;
     margin-top: 46px;
     font-weight: bolder;
 }
-p{
+.p-specail{
     font-size: 20px;
     color: rgb(57, 56, 56);
     margin-top: 15px;
@@ -69,16 +68,19 @@ p{
 .pound{
     display: flex;
     font-size: 30px;
+    margin-left: 250px;
         
 
 }
 .div-pound{
     border: 3px black;
     width: 80px;
-    padding: 40px;
+    padding: 30px;
     box-shadow: 5px 5px 10px rgb(208, 206, 206);
     border-radius: 7%;
-    margin-left: 120px;
+    margin: 30px;
+    
+    
 
 }
 .div-pound2{
@@ -95,9 +97,94 @@ p{
     font-size: 20px;
     color: aliceblue;
     font-weight: bold;
-    background-color:rgb(251, 56, 34);
+    background-color: rgb(229, 88, 72);
     padding: 10px 15px;
     border-radius: 8%;
     margin-left: 690px;
 }
 /*------Second section done----*/
+
+
+/*------third section start----*/
+.third-section{
+    margin-top: 100px;
+
+}
+.offer-doante{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 120px;
+    
+}
+.offer-item{
+    width: 20%;
+    padding: 45px;
+    margin: 30px;
+    
+}
+.extra1{
+    border: 1px rgb(183, 219, 234);
+    background-color: rgb(183, 219, 234);
+    border-radius: 2px;
+}
+.extra2{
+    border: 1px pink;
+    background-color: rgb(227, 179, 187);
+    border-radius: 2px;
+}
+.extra3{
+    border: 1px lightgoldenrodyellow;
+    background-color: rgb(242, 220, 240);
+    border-radius: 2px;
+}
+/*------third section done----*/
+
+/*------fourth section starts----*/
+.fourth-section{
+    margin-top: 120px;
+    display: flex;
+
+}
+.half-width{
+    width: 45%;
+    margin: 100px;
+}
+.half-width img{
+    width: 70%;
+    height: 420px;
+}
+.anchor-three{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    background-color: rgb(229, 88, 72);
+    padding: 10px 15px;
+    border-radius: 8%;
+}
+/*------fourth section done----*/
+
+/*------fifth section starts----*/
+.fifth-section{
+    margin-top: 20px;
+    display: flex;
+
+}
+.half-width{
+    width: 45%;
+    margin: 100px;
+}
+.half-width img{
+    width: 70%;
+    height: 520px;
+}
+.anchor-four{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    background-color: rgb(229, 88, 72);
+    padding: 10px 15px;
+    border-radius: 8%;
+}
+/*------fifth section done----*/
